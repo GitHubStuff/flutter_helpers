@@ -1,7 +1,7 @@
 # flutter_helpers
 Source code for helpful dart/flutter code snippets
 
-# broadcast_stream.dart
+## broadcast_stream.dart
 Defines a class for a StreamController, that will have take care of
 implementation details like access to the stream, and sink.
 
